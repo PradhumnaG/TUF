@@ -2,8 +2,6 @@ package TUF;
 
 public class DriverClass {
     public static void main(String[] args) {
-        DecisionMakingGFG decisionMakingGFG = new DecisionMakingGFG();
-        System.out.println(decisionMakingGFG.compareNM(4,5));
-
+        System.out.println(DataTypeGFG.dataTypeSize("Float"));
     }
 }
